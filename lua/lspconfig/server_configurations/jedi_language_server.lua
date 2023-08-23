@@ -6,6 +6,8 @@ local root_files = {
   'setup.cfg',
   'requirements.txt',
   'Pipfile',
+  'pyrightconfig.json',
+  '.git',
 }
 
 return {
